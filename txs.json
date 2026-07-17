@@ -1,1 +1,50 @@
-a
+{
+  "meta": {
+    "exportedAt": "2026-07-17T19:57:13.948Z"
+  },
+  "txList": [
+    {
+      "id": "tx_1784317956704",
+      "name": "Broadvillle LVRTC",
+      "latlng": [
+        -51.86186298265084,
+        -163.36376354100454
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.1",
+          "name": "TOPradio",
+          "pi": "7001",
+          "kw": 9.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "LVA",
+          "disabled": false,
+          "outlet": "Broadville",
+          "blobMode": "svg",
+          "blobShapeIndex": 15,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.3",
+          "name": "EHR - European Hit Radio",
+          "pi": "6767",
+          "kw": 1.277,
+          "pol": "H",
+          "directional": false,
+          "directionAngle": null,
+          "country": "LVA",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    }
+  ]
+}
