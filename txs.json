@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-18T12:12:32.332Z"
+    "exportedAt": "2026-07-18T22:30:44.008Z"
   },
   "txList": [
     {
@@ -372,6 +372,129 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1784411774130",
+      "name": "Newberry BSRTC",
+      "latlng": [
+        -94.04026889107456,
+        -174.53472548782125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92",
+          "name": "Broadland Radio 5",
+          "pi": "B105",
+          "kw": 5.012,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 305,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "Chillax FM",
+          "pi": "9726",
+          "kw": 0.776,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101",
+          "name": "Broadland Christian Radio",
+          "pi": "Y111",
+          "kw": 0.398,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 265,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 11,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.4",
+          "name": "Yumor FM",
+          "pi": "7232",
+          "kw": 0.234,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.1",
+          "name": "KBRX-FM",
+          "pi": "K121",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.8",
+          "name": "Broadland Citizen Radio",
+          "pi": "Y201",
+          "kw": 9.683,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 305,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.4",
+          "name": "R.Skonto",
+          "pi": "Y330",
+          "kw": 1.285,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 12,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
