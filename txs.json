@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-17T22:04:11.659Z"
+    "exportedAt": "2026-07-18T00:04:40.809Z"
   },
   "txList": [
     {
@@ -281,6 +281,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1784332284781",
+      "name": "South Broadville",
+      "latlng": [
+        -73.48928343493378,
+        -153.2590669459757
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.3",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.078,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95",
+          "name": "STUDIO 95",
+          "pi": "C431",
+          "kw": 0.05,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "NRJ",
+          "pi": "C401",
+          "kw": 1,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.7",
+          "name": "MIX FM",
+          "pi": "C421",
+          "kw": 0.122,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 45,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
