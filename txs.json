@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-18T00:04:40.809Z"
+    "exportedAt": "2026-07-18T12:12:32.332Z"
   },
   "txList": [
     {
@@ -265,6 +265,22 @@
           "outlet": "Broadville",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "103.5",
+          "name": "ZPLFM",
+          "pi": "P991",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 20,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
