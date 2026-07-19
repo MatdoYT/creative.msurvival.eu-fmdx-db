@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-18T22:30:44.008Z"
+    "exportedAt": "2026-07-19T23:49:48.400Z"
   },
   "txList": [
     {
@@ -495,6 +495,81 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 12,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1784504047641",
+      "name": "Rosedale",
+      "latlng": [
+        -218.984375,
+        -200.140625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.3",
+          "name": "R.Rosedale",
+          "pi": "D633",
+          "kw": 0.05,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 200,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.9",
+          "name": "KBRX-FM",
+          "pi": "K121",
+          "kw": 0.072,
+          "pol": "V",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Rosedale",
+          "blobMode": "svg",
+          "blobShapeIndex": 2,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.2",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "NRJ",
+          "pi": "C401",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Rosedale",
+          "blobMode": "svg",
+          "blobShapeIndex": 13,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
