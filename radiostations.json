@@ -1,1 +1,11 @@
-a
+{
+  "meta": {
+    "exportedAt": "2026-08-02T17:25:36.089Z"
+  },
+  "stations": {
+    "Avtoradio Broadland": {
+      "stream": " https://live.relaxfm.lv/03"
+    }
+  },
+  "overrides": {}
+}
