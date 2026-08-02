@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-07-19T23:49:48.400Z"
+    "exportedAt": "2026-08-02T02:02:37.261Z"
   },
   "txList": [
     {
@@ -570,6 +570,49 @@
           "outlet": "Rosedale",
           "blobMode": "svg",
           "blobShapeIndex": 13,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785635545241",
+      "name": "Vera Military Base (VMB)",
+      "latlng": [
+        -213.01591783244743,
+        -5.579514445300101
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.162,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Vera Bay",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.8",
+          "name": "BBC WS",
+          "pi": "B901",
+          "kw": 0.05,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
