@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T02:02:37.261Z"
+    "exportedAt": "2026-08-02T13:15:10.923Z"
   },
   "txList": [
     {
@@ -611,6 +611,92 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785675305280",
+      "name": "Broadville Coal Power Plant (BCPP) T1",
+      "latlng": [
+        -54.566293946073074,
+        -149.06202861020924
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.6",
+          "name": "XFM",
+          "pi": "7547",
+          "kw": 0.501,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 35,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.1",
+          "name": "BHR Latviešu Hiti",
+          "pi": "6977",
+          "kw": 0.794,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785675473660",
+      "name": "Broadville Coal Power Plant (BCPP) T2",
+      "latlng": [
+        -54.55315493958473,
+        -150.95404554453012
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "101.7",
+          "name": "National FM",
+          "pi": "5343",
+          "kw": 2.089,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.1",
+          "name": "XYZ FM",
+          "pi": "5251",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
