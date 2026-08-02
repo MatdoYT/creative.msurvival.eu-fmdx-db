@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T13:15:10.923Z"
+    "exportedAt": "2026-08-02T21:48:21.421Z"
   },
   "txList": [
     {
@@ -601,7 +601,7 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "100.8",
+          "freq": "100.9",
           "name": "BBC WS",
           "pi": "B901",
           "kw": 0.05,
@@ -703,7 +703,97 @@
           "blobOffsetY": 0
         }
       ]
+    },
+    {
+      "id": "tx_1785706269623",
+      "name": "Tallassee",
+      "latlng": [
+        -760.9921875,
+        178.4375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.8",
+          "name": "TOPradio",
+          "pi": "6095",
+          "kw": 0.2,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.5",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 1.778,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.2",
+          "name": "XFM",
+          "pi": "7547",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.1",
+          "name": "BHR - Broadland Hit Radio",
+          "pi": "B808",
+          "kw": 0,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.4",
+          "name": "WWW.KIIS.FM",
+          "pi": "5185",
+          "kw": 0.933,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
     }
   ]
 }
-
