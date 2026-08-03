@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T15:16:11.656Z"
+    "exportedAt": "2026-08-03T21:44:20.069Z"
   },
   "txList": [
     {
@@ -1125,6 +1125,81 @@
           "pi": "B808",
           "kw": 1,
           "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785793014149",
+      "name": "Eastport",
+      "latlng": [
+        -218.13139345259387,
+        239.99646095209664
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.4",
+          "name": "XFM",
+          "pi": "7547",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.8",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Eastport",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.1",
+          "name": "Broadlandia FM",
+          "pi": "B211",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.6",
+          "name": "National FM",
+          "pi": "5343",
+          "kw": 0.2,
+          "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
