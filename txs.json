@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T21:44:20.069Z"
+    "exportedAt": "2026-08-03T21:57:28.441Z"
   },
   "txList": [
     {
@@ -687,6 +687,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "104.7",
+          "name": "Heart",
+          "pi": "P451",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "107.1",
           "name": "XYZ FM",
           "pi": "5251",
@@ -1188,6 +1204,22 @@
           "directionAngle": null,
           "country": "BLR",
           "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.5",
+          "name": "Heart ",
+          "pi": "P451",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": true,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
