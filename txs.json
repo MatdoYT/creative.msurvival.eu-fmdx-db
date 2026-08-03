@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T02:30:19.122Z"
+    "exportedAt": "2026-08-03T02:46:47.062Z"
   },
   "txList": [
     {
@@ -421,7 +421,7 @@
         {
           "freq": "101",
           "name": "Broadland Christian Radio",
-          "pi": "Y111",
+          "pi": "5122",
           "kw": 0.398,
           "pol": "v",
           "directional": true,
@@ -469,7 +469,7 @@
         {
           "freq": "103.8",
           "name": "Broadland Citizen Radio",
-          "pi": "Y201",
+          "pi": "9201",
           "kw": 9.683,
           "pol": "h",
           "directional": true,
@@ -485,7 +485,7 @@
         {
           "freq": "107.4",
           "name": "R.Skonto",
-          "pi": "Y330",
+          "pi": "9330",
           "kw": 1.285,
           "pol": "h",
           "directional": false,
@@ -821,6 +821,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "92.4",
+          "name": "Broadland Christian Radio",
+          "pi": "5122",
+          "kw": 0.182,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "95.5",
           "name": "KBRX-FM",
           "pi": "K121",
@@ -847,6 +863,22 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "Wilburton",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.8",
+          "name": "MIX FM",
+          "pi": "C421",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
