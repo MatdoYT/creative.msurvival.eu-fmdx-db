@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T21:48:21.421Z"
+    "exportedAt": "2026-08-03T02:30:19.122Z"
   },
   "txList": [
     {
@@ -790,6 +790,81 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785723381314",
+      "name": "Wilburton Hill",
+      "latlng": [
+        -314.046875,
+        -11.15625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.6",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.046,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Wilburton",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.5",
+          "name": "KBRX-FM",
+          "pi": "K121",
+          "kw": 0.155,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Kilmalieu",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.9",
+          "name": "National FM",
+          "pi": "5343",
+          "kw": 0.072,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Wilburton",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.9",
+          "name": "XFM",
+          "pi": "7547",
+          "kw": 0.631,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
