@@ -1,14 +1,29 @@
 {
   "meta": {
-    "exportedAt": "2026-08-02T17:30:53.521Z"
+    "exportedAt": "2026-08-03T13:21:08.010Z"
   },
   "stations": {
     "Avtoradio Broadland": {
-      "stream": " https://live.relaxfm.lv/03"
+      "stream": ""
     },
     "TOPradio": {
       "stream": "https://de-fra-1.live.advailo.com/topradio/hls/s/d00fc44c-91ff-423e-ba23-e8596e5357c7/live.m3u8",
       "logo": "https://play-lh.googleusercontent.com/Hx4mWfRjioqGNXta8AlsVoihdR141rgT7TxL6tZqRvzXpffo21FtLHkxUysLR8_aW9Q=s300"
+    },
+    "NRJ": {
+      "stream": "https://streaming.nrjaudio.fm/oumvmk8fnozc",
+      "logo": "https://upload.wikimedia.org/wikipedia/fi/thumb/3/3b/NRJ_logo.svg/960px-NRJ_logo.svg.png"
+    },
+    "R.Skonto": {
+      "stream": "https://stream.radioskonto.lv:8443/stereo",
+      "logo": "https://big-radio.net/uploads/posts/2022-07/radio-skonto.webp"
+    },
+    "Star FM": {
+      "stream": " https://de-fra-1.live.advailo.com/starfm/hls/s/3f1a49a5-e775-4029-a14c-291b4714bdb3/live.m3u8",
+      "logo": "https://play-lh.googleusercontent.com/iUeUz24ArOiV57cwriGyawr852fKmNc0tBhNJwUrve7SnCkz63Pz4-47hEtafUj3vDaij9d2V_KFcBjQczHT3Q"
+    },
+    "KBRX-FM": {
+      "stream": "https://us9.maindigitalstream.com/ssl/KBAM"
     }
   },
   "overrides": {}
