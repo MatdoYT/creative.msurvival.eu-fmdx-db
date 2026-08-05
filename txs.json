@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-05T12:36:59.487Z"
+    "exportedAt": "2026-08-05T22:02:09.375Z"
   },
   "txList": [
     {
@@ -1239,6 +1239,161 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785965965671",
+      "name": "Medway BSRTC",
+      "latlng": [
+        -300.2657152780178,
+        833.6174056591746
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "90.8",
+          "name": "Heart",
+          "pi": "P451",
+          "kw": 0.842,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": true,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97",
+          "name": "Broadland Radio 1",
+          "pi": "B101",
+          "kw": 25,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.3",
+          "name": "Broadland Radio 2",
+          "pi": "B102",
+          "kw": 25,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.6",
+          "name": "Broadland Radio 3",
+          "pi": "B103",
+          "kw": 25,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.9",
+          "name": "Broadland Radio 4",
+          "pi": "B104",
+          "kw": 10,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.2",
+          "name": "Broadland Radio 5",
+          "pi": "B105",
+          "kw": 10,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.6",
+          "name": "BBC WS",
+          "pi": "B901",
+          "kw": 0.398,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.8",
+          "name": "MIX FM",
+          "pi": "C421",
+          "kw": 15.136,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.9",
+          "name": "XYZ FM",
+          "pi": "5251",
+          "kw": 5.012,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
