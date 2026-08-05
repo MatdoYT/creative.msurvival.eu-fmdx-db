@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T21:57:28.441Z"
+    "exportedAt": "2026-08-05T12:36:59.487Z"
   },
   "txList": [
     {
@@ -64,7 +64,7 @@
           "freq": "90",
           "name": "Broadland Radio 1",
           "pi": "B101",
-          "kw": 10,
+          "kw": 100,
           "pol": "m",
           "directional": false,
           "directionAngle": 270,
@@ -80,7 +80,7 @@
           "freq": "90.5",
           "name": "Broadland Radio 2",
           "pi": "B102",
-          "kw": 10,
+          "kw": 100,
           "pol": "m",
           "directional": false,
           "directionAngle": null,
@@ -96,7 +96,7 @@
           "freq": "91",
           "name": "Broadland Radio 3",
           "pi": "B103",
-          "kw": 10,
+          "kw": 50,
           "pol": "m",
           "directional": false,
           "directionAngle": null,
