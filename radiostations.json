@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T04:40:13.677Z"
+    "exportedAt": "2026-08-06T04:48:22.614Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -48,6 +48,10 @@
     "Broadland Citizen Radio": {
       "stream": "https://stream.laut.fm/citizenradio",
       "logo": "https://cdn.discordapp.com/attachments/1197986201504845924/1534783090117967872/image.png?ex=6a7561a3&is=6a741023&hm=ae6e16b258bb2ca32093364658b3fd9811b6dc9bb0d800f3a30c61c2500e63e2&"
+    },
+    "Broadland Christian Radio": {
+      "stream": "https://streams2.vision.org.au/vision128.mp3",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqNg-RCHOSci1Uq796a8HwA-VVBkM1pt-CbV1yDJD7PA71BQrFF8yn0In9&s=10"
     }
   },
   "overrides": {}
