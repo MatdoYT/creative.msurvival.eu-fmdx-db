@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T04:12:19.416Z"
+    "exportedAt": "2026-08-06T04:16:54.996Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -28,6 +28,10 @@
     "Radio 3": {
       "stream": "https://strm112.1.fm/dance_mobile_mp3",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVT_ZOdUE8Fqc8Vr1wYzH6KygxNYXyjZ-v76KkVanUlQdjvpUR7sKmUGa&s=10"
+    },
+    "R.Medland": {
+      "stream": "https://stream.laut.fm/medusafm",
+      "logo": "https://static.vecteezy.com/ti/vettori-gratis/p1/29170510-mfm-lettera-logo-disegno-ispirazione-per-un-unico-identita-moderno-eleganza-e-creativo-design-filigrana-il-tuo-successo-con-il-impressionante-questo-logo-vettoriale.jpg"
     }
   },
   "overrides": {}
