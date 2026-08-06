@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T05:03:05.825Z"
+    "exportedAt": "2026-08-06T05:06:51.020Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -70,6 +70,10 @@
     },
     "Broadland Radio 5": {
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bf/20250817104444%21GO_Barrie_logo_2024.svg/120px-GO_Barrie_logo_2024.svg.png"
+    },
+    "BBC WS": {
+      "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "logo": "https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj"
     }
   },
   "overrides": {}
