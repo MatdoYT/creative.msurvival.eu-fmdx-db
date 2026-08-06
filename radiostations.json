@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T04:27:44.022Z"
+    "exportedAt": "2026-08-06T04:40:13.677Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -44,6 +44,10 @@
     "BHR - Broadland Hit Radio": {
       "stream": " https://29053.live.streamtheworld.com/EHRAAC.aac",
       "logo": "https://static.vecteezy.com/system/resources/previews/009/163/015/non_2x/bhr-logo-bhr-letter-bhr-letter-logo-design-initials-bhr-logo-linked-with-circle-and-uppercase-monogram-logo-bhr-typography-for-technology-business-and-real-estate-brand-vector.jpg"
+    },
+    "Broadland Citizen Radio": {
+      "stream": "https://stream.laut.fm/citizenradio",
+      "logo": "https://cdn.discordapp.com/attachments/1197986201504845924/1534783090117967872/image.png?ex=6a7561a3&is=6a741023&hm=ae6e16b258bb2ca32093364658b3fd9811b6dc9bb0d800f3a30c61c2500e63e2&"
     }
   },
   "overrides": {}
