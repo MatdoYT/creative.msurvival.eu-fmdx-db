@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-03T13:21:08.010Z"
+    "exportedAt": "2026-08-06T04:12:19.416Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -24,6 +24,10 @@
     },
     "KBRX-FM": {
       "stream": "https://us9.maindigitalstream.com/ssl/KBAM"
+    },
+    "Radio 3": {
+      "stream": "https://strm112.1.fm/dance_mobile_mp3",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVT_ZOdUE8Fqc8Vr1wYzH6KygxNYXyjZ-v76KkVanUlQdjvpUR7sKmUGa&s=10"
     }
   },
   "overrides": {}
