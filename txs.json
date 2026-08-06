@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-05T22:02:09.375Z"
+    "exportedAt": "2026-08-06T04:00:56.247Z"
   },
   "txList": [
     {
@@ -1394,6 +1394,124 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785986292191",
+      "name": "Mount Hector",
+      "latlng": [
+        -449.296875,
+        608.3671875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.8",
+          "name": "R.Medland",
+          "pi": "8811",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "91.3",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.6",
+          "name": "BHR Superhits",
+          "pi": "6877",
+          "kw": 0.398,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1785988278290",
+      "name": "Hilliardville",
+      "latlng": [
+        -606.1171875,
+        810.4921875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "87.5",
+          "name": "R.Medland",
+          "pi": "8811",
+          "kw": 0.078,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.5",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.198,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.8",
+          "name": "TOPradio",
+          "pi": "6095",
+          "kw": 0.198,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
