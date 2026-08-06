@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T04:48:22.614Z"
+    "exportedAt": "2026-08-06T05:03:05.825Z"
   },
   "stations": {
     "Avtoradio Broadland": {
@@ -52,6 +52,24 @@
     "Broadland Christian Radio": {
       "stream": "https://streams2.vision.org.au/vision128.mp3",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqNg-RCHOSci1Uq796a8HwA-VVBkM1pt-CbV1yDJD7PA71BQrFF8yn0In9&s=10"
+    },
+    "Broadland Radio 1": {
+      "stream": "https://wlrz.latvijasradio.lv/liveALR1/mp4:lr1.stream/playlist.m3u8",
+      "logo": "https://www.br.de/radio/bayern1/bayern-1-logo-2018-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=196da"
+    },
+    "Broadland Radio 2": {
+      "stream": "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+      "logo": "https://www.br.de/static/img/bereich/radio/bayern2/b2_favicon.png?version=2"
+    },
+    "Broadland Radio 3": {
+      "stream": " https://muste.latvijasradio.lv/shoutcast/mp4:lr3a.stream/playlist.m3u8",
+      "logo": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848f9aa52aa990acb34aae324f"
+    },
+    "Broadland Radio 4": {
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bf/20250817104444%21GO_Barrie_logo_2024.svg/120px-GO_Barrie_logo_2024.svg.png"
+    },
+    "Broadland Radio 5": {
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/b/bf/20250817104444%21GO_Barrie_logo_2024.svg/120px-GO_Barrie_logo_2024.svg.png"
     }
   },
   "overrides": {}
