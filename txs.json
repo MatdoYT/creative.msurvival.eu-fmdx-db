@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-06T04:00:56.247Z"
+    "exportedAt": "2026-08-17T00:07:51.326Z"
   },
   "txList": [
     {
@@ -688,14 +688,14 @@
         },
         {
           "freq": "104.7",
-          "name": "Heart",
+          "name": "Heart Radio",
           "pi": "P451",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -1212,14 +1212,14 @@
         },
         {
           "freq": "104.5",
-          "name": "Heart ",
+          "name": "Heart Radio",
           "pi": "P451",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -1255,14 +1255,14 @@
       "stations": [
         {
           "freq": "90.8",
-          "name": "Heart",
+          "name": "Heart Radio",
           "pi": "P451",
-          "kw": 0.842,
+          "kw": 0.468,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
-          "disabled": true,
+          "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
