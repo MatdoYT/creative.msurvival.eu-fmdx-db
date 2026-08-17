@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T00:09:28.419Z"
+    "exportedAt": "2026-08-17T23:16:47.879Z"
   },
   "txList": [
     {
@@ -1512,6 +1512,76 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1787006848901",
+      "name": "Westend",
+      "latlng": [
+        -459.25,
+        281.8671875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "98.4",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "TOPradio",
+          "pi": "6095",
+          "kw": 0.741,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1787008251027",
+      "name": "Williamsburg",
+      "latlng": [
+        -550.0848815893098,
+        360.4366331663865
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89",
+          "name": "TOPradio",
+          "pi": "6095",
+          "kw": 0.148,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 15,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
