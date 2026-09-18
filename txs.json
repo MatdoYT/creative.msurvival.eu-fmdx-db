@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-08-17T23:16:47.879Z"
+    "exportedAt": "2026-09-18T18:33:17.844Z"
   },
   "txList": [
     {
@@ -1582,6 +1582,140 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 15,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789752911847",
+      "name": "Drumuillie",
+      "latlng": [
+        -802.1171875,
+        507.515625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.2",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789754486456",
+      "name": "Drumuillie RETRANS",
+      "latlng": [
+        -818.871296165819,
+        513.3658464577371
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.8",
+          "name": "Heart Radio",
+          "pi": "P451",
+          "kw": 9.55,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Drumuillie",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.5",
+          "name": "RadioTEV",
+          "pi": "6505",
+          "kw": 1.186,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.2",
+          "name": "MIX FM",
+          "pi": "C421",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.6",
+          "name": "TOPradio",
+          "pi": "6095",
+          "kw": 0.1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106",
+          "name": "Broadland Citizen Radio",
+          "pi": "9201",
+          "kw": 7.88,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.4",
+          "name": "Broadland Christian Radio",
+          "pi": "5122",
+          "kw": 2.225,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 220,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
