@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-18T18:33:17.844Z"
+    "exportedAt": "2026-09-19T21:00:43.636Z"
   },
   "txList": [
     {
@@ -724,8 +724,8 @@
       "id": "tx_1785706269623",
       "name": "Tallassee",
       "latlng": [
-        -760.9921875,
-        178.4375
+        -761.0925536017415,
+        178.38106725040817
       ],
       "point": null,
       "stations": [
@@ -1716,6 +1716,113 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1789850199246",
+      "name": "Mount Jane",
+      "latlng": [
+        -1005.9296875,
+        316.0625
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89.2",
+          "name": "R.Maria",
+          "pi": "6011",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 345,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "89.5",
+          "name": "NRJ",
+          "pi": "C401",
+          "kw": 0.782,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 25,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "svg",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.2",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 0.321,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 345,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.9",
+          "name": "RadioTEV",
+          "pi": "6505",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 280,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.3",
+          "name": "Broadlandia FM",
+          "pi": "B211",
+          "kw": 12.589,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "102.6",
+          "name": "Mountain FM",
+          "pi": "7881",
+          "kw": 1,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 43,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Mount Jane",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
