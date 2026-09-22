@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-22T21:56:52.690Z"
+    "exportedAt": "2026-09-22T23:51:49.079Z"
   },
   "txList": [
     {
@@ -730,6 +730,22 @@
       "point": null,
       "stations": [
         {
+          "freq": "87.6",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 0.321,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "91.8",
           "name": "TOPradio",
           "pi": "6095",
@@ -1441,6 +1457,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "104.8",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 0.155,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Medland",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "107.6",
           "name": "BHR Superhits",
           "pi": "6877",
@@ -1478,6 +1510,22 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "88.4",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Medland",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -1584,6 +1632,22 @@
           "blobShapeIndex": 15,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "90.7",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 0.098,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "svg",
+          "blobShapeIndex": 15,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -1596,6 +1660,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "96.5",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 0.152,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "100.2",
           "name": "Radio 3",
