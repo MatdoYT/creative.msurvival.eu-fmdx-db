@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-20T21:11:26.668Z"
+    "exportedAt": "2026-09-22T21:56:52.690Z"
   },
   "txList": [
     {
@@ -1832,8 +1832,8 @@
       "id": "tx_1789934836939",
       "name": "Marona BSRTC",
       "latlng": [
-        -948.1796875,
-        340.0625
+        -948.2440233252947,
+        340.0389094460906
       ],
       "point": null,
       "stations": [
@@ -2090,6 +2090,81 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1790113238363",
+      "name": "West Marona Hill",
+      "latlng": [
+        -978.6338395219659,
+        325.62906385726853
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 1,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "93.8",
+          "name": "MIX FM",
+          "pi": "C421",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99",
+          "name": "WWW.KIIS.FM",
+          "pi": "5185",
+          "kw": 0.398,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.4",
+          "name": "KIIS FM Plus",
+          "pi": "5190",
+          "kw": 1.525,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 100,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
