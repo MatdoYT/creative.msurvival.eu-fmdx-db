@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-24T20:55:38.926Z"
+    "exportedAt": "2026-10-18T02:50:00.221Z"
   },
   "txList": [
     {
@@ -354,22 +354,6 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "Broadville",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "107.7",
-          "name": "MIX FM",
-          "pi": "C421",
-          "kw": 0.122,
-          "pol": "c",
-          "directional": true,
-          "directionAngle": 45,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -1260,8 +1244,8 @@
         },
         {
           "freq": "105.6",
-          "name": "National FM",
-          "pi": "5343",
+          "name": "HIT FM",
+          "pi": "F144",
           "kw": 0.2,
           "pol": "v",
           "directional": false,
@@ -2352,6 +2336,113 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1792290157212",
+      "name": "Spike Island",
+      "latlng": [
+        -86,
+        -58.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "93.9",
+          "name": "HIT FM",
+          "pi": "F144",
+          "kw": 9.318,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.2",
+          "name": "MIX FM",
+          "pi": "F445",
+          "kw": 9.318,
+          "pol": "M",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.5",
+          "name": "news24.org",
+          "pi": "F551",
+          "kw": 9.318,
+          "pol": "M",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.9",
+          "name": "STUDIO 95",
+          "pi": "C431",
+          "kw": 0.097,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.7",
+          "name": "URBAN FM",
+          "pi": "5173",
+          "kw": 11.524,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.7",
+          "name": "R.Record",
+          "pi": "5854",
+          "kw": 5.012,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 325,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
