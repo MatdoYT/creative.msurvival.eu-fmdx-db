@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-18T02:50:00.221Z"
+    "exportedAt": "2026-10-20T00:02:05.288Z"
   },
   "txList": [
     {
@@ -365,8 +365,8 @@
       "id": "tx_1784411774130",
       "name": "Newberry BSRTC",
       "latlng": [
-        -94.04026889107456,
-        -174.53472548782125
+        -94.140625,
+        -174.75
       ],
       "point": null,
       "stations": [
@@ -388,15 +388,15 @@
         },
         {
           "freq": "98.9",
-          "name": "Chillax FM",
-          "pi": "9726",
+          "name": "R.SWH Plus",
+          "pi": "P223",
           "kw": 1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
           "disabled": false,
-          "outlet": "",
+          "outlet": "Ex. Chillax FM",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -415,22 +415,6 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 11,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "101.4",
-          "name": "Yumor FM",
-          "pi": "7232",
-          "kw": 0.234,
-          "pol": "v",
-          "directional": true,
-          "directionAngle": 45,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Broadville",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -655,6 +639,54 @@
       "point": null,
       "stations": [
         {
+          "freq": "88.6",
+          "name": "R.SWH Gold",
+          "pi": "P224",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "88.9",
+          "name": "R.SWH LV",
+          "pi": "P225",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.6",
+          "name": "R.SWH Spin",
+          "pi": "P226",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "101.7",
           "name": "National FM",
           "pi": "5343",
@@ -722,7 +754,7 @@
           "directional": true,
           "directionAngle": 270,
           "country": "BLR",
-          "disabled": false,
+          "disabled": true,
           "outlet": "Marona",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
@@ -836,22 +868,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "88.6",
-          "name": "Radio 3",
-          "pi": "C411",
-          "kw": 0.046,
-          "pol": "v",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Wilburton",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "92.4",
           "name": "Broadland Christian Radio",
@@ -1152,6 +1168,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "103.4",
+          "name": "R.SWH Plus",
+          "pi": "P224",
+          "kw": 0.122,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "105.2",
           "name": "BHR - Broadland Hit Radio",
           "pi": "B808",
@@ -1269,6 +1301,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "87.6",
+          "name": "R.SWH",
+          "pi": "P221",
+          "kw": 0.771,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 10,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "90.8",
           "name": "Heart Radio",
@@ -1756,6 +1804,22 @@
           "name": "RadioTEV",
           "pi": "6505",
           "kw": 1.186,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96",
+          "name": "R.SWH Rock",
+          "pi": "P222",
+          "kw": 0.818,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
@@ -2281,6 +2345,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "99.3",
+          "name": "R.SWH",
+          "pi": "P221",
+          "kw": 0.198,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "100.4",
           "name": "KIIS FM Plus",
           "pi": "5190",
@@ -2293,6 +2373,22 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.7",
+          "name": "R.SWH Spin",
+          "pi": "P226",
+          "kw": 0.112,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 275,
+          "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 20,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
@@ -2350,6 +2446,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "89.7",
+          "name": "R.SWH",
+          "pi": "P221",
+          "kw": 15.234,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 325,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "93.9",
           "name": "HIT FM",
@@ -2411,6 +2523,22 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.3",
+          "name": "R.SWH Rock",
+          "pi": "P222",
+          "kw": 2.715,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 165,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 17,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
