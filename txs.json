@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-20T02:10:12.519Z"
+    "exportedAt": "2026-10-20T02:33:43.783Z"
   },
   "txList": [
     {
@@ -585,6 +585,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "98.6",
+          "name": "Relax FM",
+          "pi": "F454",
+          "kw": 0.321,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "100.9",
           "name": "BBC WS",
           "pi": "B901",
@@ -817,6 +833,22 @@
           "pol": "h",
           "directional": false,
           "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.6",
+          "name": "Relax FM",
+          "pi": "F454",
+          "kw": 0.218,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
           "country": "BLR",
           "disabled": false,
           "outlet": "",
@@ -1776,6 +1808,22 @@
           "blobShapeIndex": 15,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "98.8",
+          "name": "Relax FM",
+          "pi": "F454",
+          "kw": 0.098,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 15,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -2482,6 +2530,22 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "101.3",
+          "name": "R.SWH",
+          "pi": "P221",
+          "kw": 0.398,
+          "pol": "c",
+          "directional": true,
+          "directionAngle": 135,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -2494,6 +2558,22 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "89.4",
+          "name": "Relax FM",
+          "pi": "F454",
+          "kw": 0.176,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "89.7",
           "name": "R.SWH",
