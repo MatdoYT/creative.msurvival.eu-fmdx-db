@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-20T03:55:03.003Z"
+    "exportedAt": "2026-10-20T13:22:32.185Z"
   },
   "txList": [
     {
@@ -12,6 +12,38 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "65.1",
+          "name": "Broadland Radio 1",
+          "pi": "B111",
+          "kw": 25,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "OIRT",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "65.4",
+          "name": "Broadland Radio 2",
+          "pi": "B112",
+          "kw": 25,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "OIRT",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "87.6",
           "name": "ROCK FM",
@@ -331,6 +363,22 @@
           "blobShapeIndex": 23,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "107.4",
+          "name": "Bizness FM",
+          "pi": "9330",
+          "kw": 1,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Ex. R.Skonto",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -422,22 +470,6 @@
           "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        },
-        {
-          "freq": "107.4",
-          "name": "Bizness FM",
-          "pi": "9330",
-          "kw": 1.285,
-          "pol": "h",
-          "directional": false,
-          "directionAngle": null,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Ex. R.Skonto",
-          "blobMode": "svg",
-          "blobShapeIndex": 12,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
         }
       ]
     },
@@ -452,15 +484,15 @@
       "stations": [
         {
           "freq": "93.3",
-          "name": "R.Rosedale",
-          "pi": "D633",
+          "name": "Broadland Radio 7",
+          "pi": "B107",
           "kw": 0.05,
           "pol": "h",
           "directional": true,
           "directionAngle": 200,
           "country": "BLR",
           "disabled": false,
-          "outlet": "",
+          "outlet": "BNCTM Radio",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -484,15 +516,15 @@
         },
         {
           "freq": "95.2",
-          "name": "Radio 3",
-          "pi": "C411",
+          "name": "Broadland Radio 6",
+          "pi": "B106",
           "kw": 0.1,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
           "disabled": false,
-          "outlet": "",
+          "outlet": "NCRB Radio",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -920,6 +952,22 @@
           "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 0
+        },
+        {
+          "freq": "107.9",
+          "name": "Broadland Radio 7",
+          "pi": "B107",
+          "kw": 0.092,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "BNCTM Radio",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
         }
       ]
     },
@@ -1287,6 +1335,22 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 23,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "87.9",
+          "name": "Broadland Radio 7",
+          "pi": "B107",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 123,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "BNCTM Radio",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
@@ -2483,6 +2547,38 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "71.2",
+          "name": "Capital FM",
+          "pi": "F9F9",
+          "kw": 5.012,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 325,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "71.5",
+          "name": "Broadland Radio 7",
+          "pi": "B117",
+          "kw": 10,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 325,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "BNCTM R. (OIRT)",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "89.4",
           "name": "Relax FM",
