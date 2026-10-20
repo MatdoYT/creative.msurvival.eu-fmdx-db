@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-20T02:33:43.783Z"
+    "exportedAt": "2026-10-20T03:55:03.003Z"
   },
   "txList": [
     {
@@ -135,6 +135,22 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "92.9",
+          "name": "Broadland Radio 6",
+          "pi": "B106",
+          "kw": 0.221,
+          "pol": "m",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "NCRB Radio",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -319,65 +335,6 @@
       ]
     },
     {
-      "id": "tx_1784332284781",
-      "name": "South Broadville",
-      "latlng": [
-        -73.48928343493378,
-        -153.2590669459757
-      ],
-      "point": null,
-      "stations": [
-        {
-          "freq": "93.3",
-          "name": "Radio 3",
-          "pi": "C411",
-          "kw": 0.078,
-          "pol": "c",
-          "directional": true,
-          "directionAngle": 45,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "95",
-          "name": "STUDIO 95",
-          "pi": "C431",
-          "kw": 0.05,
-          "pol": "c",
-          "directional": true,
-          "directionAngle": 45,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "99.2",
-          "name": "NRJ",
-          "pi": "C401",
-          "kw": 1,
-          "pol": "c",
-          "directional": true,
-          "directionAngle": 45,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Broadville",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        }
-      ]
-    },
-    {
       "id": "tx_1784411774130",
       "name": "Newberry BSRTC",
       "latlng": [
@@ -468,7 +425,7 @@
         },
         {
           "freq": "107.4",
-          "name": "R.Skonto",
+          "name": "Bizness FM",
           "pi": "9330",
           "kw": 1.285,
           "pol": "h",
@@ -476,7 +433,7 @@
           "directionAngle": null,
           "country": "BLR",
           "disabled": false,
-          "outlet": "",
+          "outlet": "Ex. R.Skonto",
           "blobMode": "svg",
           "blobShapeIndex": 12,
           "blobOffsetX": 0,
@@ -513,7 +470,7 @@
           "freq": "94.9",
           "name": "KBRX-FM",
           "pi": "K121",
-          "kw": 0.072,
+          "kw": 0.05,
           "pol": "V",
           "directional": true,
           "directionAngle": 270,
@@ -540,22 +497,6 @@
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
-        },
-        {
-          "freq": "106.2",
-          "name": "NRJ",
-          "pi": "C401",
-          "kw": 0.501,
-          "pol": "h",
-          "directional": true,
-          "directionAngle": 270,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Rosedale",
-          "blobMode": "svg",
-          "blobShapeIndex": 13,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
         }
       ]
     },
@@ -568,22 +509,6 @@
       ],
       "point": null,
       "stations": [
-        {
-          "freq": "95",
-          "name": "Radio 3",
-          "pi": "C411",
-          "kw": 0.162,
-          "pol": "h",
-          "directional": true,
-          "directionAngle": 90,
-          "country": "BLR",
-          "disabled": false,
-          "outlet": "Vera Bay",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
         {
           "freq": "98.6",
           "name": "Relax FM",
@@ -2591,6 +2516,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "93.1",
+          "name": "R.Broadville",
+          "pi": "B555",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 325,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "93.9",
           "name": "HIT FM",
           "pi": "F144",
@@ -2639,16 +2580,64 @@
           "blobOffsetY": 0
         },
         {
-          "freq": "96.9",
+          "freq": "95",
           "name": "STUDIO 95",
           "pi": "C431",
-          "kw": 0.097,
-          "pol": "h",
+          "kw": 0.075,
+          "pol": "m",
           "directional": true,
-          "directionAngle": 180,
+          "directionAngle": 270,
           "country": "BLR",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 25,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "97.1",
+          "name": "Broadland Radio 7",
+          "pi": "B107",
+          "kw": 0.331,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "BNCTM Radio",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.3",
+          "name": "ZIP FM",
+          "pi": "B215",
+          "kw": 1,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "99.2",
+          "name": "NRJ",
+          "pi": "C401",
+          "kw": 5.012,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Broadville",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -2667,6 +2656,22 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 17,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "106.2",
+          "name": "Radio 3",
+          "pi": "C411",
+          "kw": 5.012,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
