@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-21T23:18:14.798Z"
+    "exportedAt": "2026-10-21T23:23:58.952Z"
   },
   "txList": [
     {
@@ -2881,7 +2881,7 @@
         {
           "freq": "92.2",
           "name": "GRT FM",
-          "pi": "9955",
+          "pi": "A955",
           "kw": 0.501,
           "pol": "v",
           "directional": true,
@@ -2897,7 +2897,7 @@
         {
           "freq": "95.2",
           "name": "Gintaro FM",
-          "pi": "8844",
+          "pi": "A844",
           "kw": 0.501,
           "pol": "v",
           "directional": true,
@@ -2999,7 +2999,7 @@
         {
           "freq": "89",
           "name": "news24.org",
-          "pi": "B284",
+          "pi": "A284",
           "kw": 0.698,
           "pol": "m",
           "directional": true,
@@ -3015,7 +3015,7 @@
         {
           "freq": "96.2",
           "name": "Gintaro FM",
-          "pi": "8844",
+          "pi": "A844",
           "kw": 10,
           "pol": "m",
           "directional": true,
@@ -3031,7 +3031,7 @@
         {
           "freq": "101.9",
           "name": "GRT FM",
-          "pi": "9955",
+          "pi": "A955",
           "kw": 10,
           "pol": "m",
           "directional": true,
@@ -3047,7 +3047,7 @@
         {
           "freq": "107.5",
           "name": "BBC WS",
-          "pi": "B767",
+          "pi": "A767",
           "kw": 0.2,
           "pol": "m",
           "directional": true,
