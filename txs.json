@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-21T21:23:49.846Z"
+    "exportedAt": "2026-10-21T22:15:14.164Z"
   },
   "txList": [
     {
@@ -2882,6 +2882,22 @@
           "freq": "92.2",
           "name": "GRT FM",
           "pi": "9955",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "95.2",
+          "name": "Gintaro FM",
+          "pi": "8844",
           "kw": 0.501,
           "pol": "v",
           "directional": true,
