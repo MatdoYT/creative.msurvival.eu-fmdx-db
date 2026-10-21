@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-21T22:15:14.164Z"
+    "exportedAt": "2026-10-21T23:18:14.798Z"
   },
   "txList": [
     {
@@ -2733,7 +2733,7 @@
           "directionAngle": 270,
           "country": "BLR",
           "disabled": false,
-          "outlet": "",
+          "outlet": "Broadland",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -2982,6 +2982,81 @@
           "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1792623186038",
+      "name": "Gintarupe GRT",
+      "latlng": [
+        400.0078125,
+        481.75
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "89",
+          "name": "news24.org",
+          "pi": "B284",
+          "kw": 0.698,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "Gintaria",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "96.2",
+          "name": "Gintaro FM",
+          "pi": "8844",
+          "kw": 10,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "101.9",
+          "name": "GRT FM",
+          "pi": "9955",
+          "kw": 10,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 33,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 22,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.5",
+          "name": "BBC WS",
+          "pi": "B767",
+          "kw": 0.2,
+          "pol": "m",
+          "directional": true,
+          "directionAngle": 40,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "GRT-BBC FM",
+          "blobMode": "svg",
+          "blobShapeIndex": 18,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
