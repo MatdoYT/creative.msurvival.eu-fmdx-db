@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-21T00:21:26.922Z"
+    "exportedAt": "2026-10-21T21:23:49.846Z"
   },
   "txList": [
     {
@@ -2864,6 +2864,108 @@
           "outlet": "Broadville",
           "blobMode": "svg",
           "blobShapeIndex": 21,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1792616396251",
+      "name": "Medland Border (Gintaria)",
+      "latlng": [
+        -76.359375,
+        874.734375
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "92.2",
+          "name": "GRT FM",
+          "pi": "9955",
+          "kw": 0.501,
+          "pol": "v",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "GTR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1792616892146",
+      "name": "Medland Border (Broadland)",
+      "latlng": [
+        -78.6953125,
+        880.0546875
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.4",
+          "name": "R.SWH Plus",
+          "pi": "P224",
+          "kw": 0.098,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "88.8",
+          "name": "R.Medland",
+          "pi": "8811",
+          "kw": 0.098,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.2",
+          "name": "R.ZU",
+          "pi": "B389",
+          "kw": 0.736,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Medland",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "107.5",
+          "name": "BHR Superhits",
+          "pi": "6877",
+          "kw": 0.098,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
