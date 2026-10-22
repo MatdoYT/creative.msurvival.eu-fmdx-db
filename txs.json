@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-22T14:22:40.449Z"
+    "exportedAt": "2026-10-22T14:29:22.237Z"
   },
   "txList": [
     {
@@ -2101,7 +2101,7 @@
           "directionAngle": null,
           "country": "DAB+",
           "disabled": false,
-          "outlet": "DAB+",
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -2117,7 +2117,7 @@
           "directionAngle": null,
           "country": "DAB+",
           "disabled": false,
-          "outlet": "DAB+",
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -2133,7 +2133,7 @@
           "directionAngle": null,
           "country": "DAB+",
           "disabled": false,
-          "outlet": "DAB+",
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
