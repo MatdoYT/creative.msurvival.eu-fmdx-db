@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-29T05:20:38.819Z"
+    "exportedAt": "2026-10-29T06:25:15.488Z"
   },
   "txList": [
     {
@@ -4351,6 +4351,33 @@
           "name": "Broadland Christian Radio",
           "pi": "5122",
           "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1793254897379",
+      "name": "Crawfordville",
+      "latlng": [
+        -1570.5842795901253,
+        866.2809757891861
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "102.5",
+          "name": "R.SWH",
+          "pi": "P221",
+          "kw": 5.012,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
