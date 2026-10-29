@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-22T14:29:22.237Z"
+    "exportedAt": "2026-10-29T05:20:38.819Z"
   },
   "txList": [
     {
@@ -4311,6 +4311,49 @@
           "pol": "h",
           "directional": true,
           "directionAngle": 180,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1793251075910",
+      "name": "Teli Honora Datacenter",
+      "latlng": [
+        -1847.0402522634542,
+        1142.4304418979718
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "94.1",
+          "name": "Broadland Citizen Radio",
+          "pi": "9201",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.5",
+          "name": "Broadland Christian Radio",
+          "pi": "5122",
+          "kw": 1,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
           "country": "BLR",
           "disabled": false,
           "outlet": "",
