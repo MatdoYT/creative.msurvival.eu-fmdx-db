@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-10-29T06:25:15.488Z"
+    "exportedAt": "2026-11-03T04:30:15.183Z"
   },
   "txList": [
     {
@@ -4382,6 +4382,33 @@
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1793680094931",
+      "name": "Greenwood ANRTC",
+      "latlng": [
+        -1021,
+        -1245
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100",
+          "name": "SUPER FM",
+          "pi": "A166",
+          "kw": 1,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 270,
+          "country": "AST",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
