@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-03T04:30:15.183Z"
+    "exportedAt": "2026-11-07T13:22:42.969Z"
   },
   "txList": [
     {
@@ -4409,6 +4409,49 @@
           "directional": true,
           "directionAngle": 270,
           "country": "AST",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1794057233276",
+      "name": "West Mayville",
+      "latlng": [
+        822.8671875,
+        -1125.6328125
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "95.3",
+          "name": "R.Maria",
+          "pi": "F001",
+          "kw": 50,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "105.5",
+          "name": "ENERGY",
+          "pi": "F132",
+          "kw": 10,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
