@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-07T13:22:42.969Z"
+    "exportedAt": "2026-11-09T22:10:37.502Z"
   },
   "txList": [
     {
@@ -945,6 +945,22 @@
           "directional": true,
           "directionAngle": 180,
           "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "",
+          "name": "New Station",
+          "pi": "",
+          "kw": 0,
+          "pol": "Any",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
@@ -4451,6 +4467,65 @@
           "pol": "h",
           "directional": false,
           "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1794261810614",
+      "name": "Chicken Island",
+      "latlng": [
+        496.37791184950026,
+        -325.7552552578776
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "97.4",
+          "name": "Chicken FM",
+          "pi": "FA95",
+          "kw": 0.114,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "100.3",
+          "name": "R.Maria",
+          "pi": "F001",
+          "kw": 2.326,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 0,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "104.4",
+          "name": "ENERGY",
+          "pi": "F132",
+          "kw": 2.326,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 0,
           "country": "CLT",
           "disabled": false,
           "outlet": "",
