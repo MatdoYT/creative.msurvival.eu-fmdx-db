@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-09T22:10:37.502Z"
+    "exportedAt": "2026-11-10T22:31:52.981Z"
   },
   "txList": [
     {
@@ -921,6 +921,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "",
+          "name": "New Station",
+          "pi": "",
+          "kw": 0,
+          "pol": "Any",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "93.6",
           "name": "Power Hit Radio",
           "pi": "5544",
@@ -945,22 +961,6 @@
           "directional": true,
           "directionAngle": 180,
           "country": "BLR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "",
-          "name": "New Station",
-          "pi": "",
-          "kw": 0,
-          "pol": "Any",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
@@ -4443,6 +4443,86 @@
       ],
       "point": null,
       "stations": [
+        {
+          "freq": "DAB+ (7A)",
+          "name": "LDH - LIEPNET DANCE HITS",
+          "pi": "LIEPNET-DTX1MV",
+          "kw": 0.35,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DAB+",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "DAB+ (7A)",
+          "name": "R.Maria",
+          "pi": "LIEPNET-DTX1MV",
+          "kw": 0.35,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DAB+",
+          "disabled": false,
+          "outlet": "DAB+",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "DAB+ (7A)",
+          "name": "ENERGY",
+          "pi": "LIEPNET-DTX1MV",
+          "kw": 0.35,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DAB+",
+          "disabled": false,
+          "outlet": "DAB+",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "DAB+ (7A)",
+          "name": "BBC WS",
+          "pi": "LIEPNET-DTX1MV",
+          "kw": 0.35,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DAB+",
+          "disabled": false,
+          "outlet": "DAB+",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "DAB+ (7A)",
+          "name": "news24.org",
+          "pi": "LIEPNET-DTX1MV",
+          "kw": 0.35,
+          "pol": "",
+          "directional": false,
+          "directionAngle": null,
+          "country": "DAB+",
+          "disabled": false,
+          "outlet": "DAB+",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
         {
           "freq": "95.3",
           "name": "R.Maria",
