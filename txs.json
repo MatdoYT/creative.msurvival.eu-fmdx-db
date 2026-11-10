@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-10T22:35:58.757Z"
+    "exportedAt": "2026-11-10T23:12:28.360Z"
   },
   "txList": [
     {
@@ -530,6 +530,22 @@
           "country": "BLR",
           "disabled": false,
           "outlet": "BLR-DAB",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "",
+          "name": "New Station",
+          "pi": "",
+          "kw": 0,
+          "pol": "Any",
+          "directional": false,
+          "directionAngle": null,
+          "country": "",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
@@ -4524,6 +4540,22 @@
           "blobOffsetY": 0
         },
         {
+          "freq": "102.3",
+          "name": "NEXFM",
+          "pi": "F660",
+          "kw": 0.501,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "Mayville",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
           "freq": "105.5",
           "name": "ENERGY",
           "pi": "F132",
@@ -4593,6 +4625,49 @@
           "country": "CLT",
           "disabled": false,
           "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1794352004943",
+      "name": "Steepville",
+      "latlng": [
+        528.4910744516781,
+        -1061.9991164197738
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "88.5",
+          "name": "R.Maria",
+          "pi": "F001",
+          "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "98.5",
+          "name": "NEXFM",
+          "pi": "F660",
+          "kw": 2.533,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "Central Celestia",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
