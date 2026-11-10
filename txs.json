@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-10T22:31:52.981Z"
+    "exportedAt": "2026-11-10T22:35:58.757Z"
   },
   "txList": [
     {
@@ -913,22 +913,6 @@
           "directional": false,
           "directionAngle": null,
           "country": "BLR",
-          "disabled": false,
-          "outlet": "",
-          "blobMode": "legacy",
-          "blobShapeIndex": 0,
-          "blobOffsetX": 0,
-          "blobOffsetY": 0
-        },
-        {
-          "freq": "",
-          "name": "New Station",
-          "pi": "",
-          "kw": 0,
-          "pol": "Any",
-          "directional": false,
-          "directionAngle": null,
-          "country": "",
           "disabled": false,
           "outlet": "",
           "blobMode": "legacy",
