@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-10T23:12:28.360Z"
+    "exportedAt": "2026-11-10T23:41:32.951Z"
   },
   "txList": [
     {
@@ -4668,6 +4668,33 @@
           "country": "CLT",
           "disabled": false,
           "outlet": "Central Celestia",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1794353965877",
+      "name": "Jungles Island",
+      "latlng": [
+        919.4986575923383,
+        -915.3828860927587
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "106",
+          "name": "NEXFM",
+          "pi": "F660",
+          "kw": 1.891,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 90,
+          "country": "CLT",
+          "disabled": false,
+          "outlet": "",
           "blobMode": "legacy",
           "blobShapeIndex": 0,
           "blobOffsetX": 0,
