@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-22T20:56:42.375Z"
+    "exportedAt": "2026-11-25T01:09:42.230Z"
   },
   "txList": [
     {
@@ -1653,8 +1653,8 @@
       "id": "tx_1785965965671",
       "name": "Medway BSRTC",
       "latlng": [
-        -300.2657152780178,
-        833.6174056591746
+        -300.28408721877304,
+        833.6248969363215
       ],
       "point": null,
       "stations": [
@@ -4700,6 +4700,33 @@
           "name": "ERIM FM",
           "pi": "K850",
           "kw": 0.2,
+          "pol": "v",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "legacy",
+          "blobShapeIndex": 0,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1795568862033",
+      "name": "FUHS Medway DC",
+      "latlng": [
+        -259.68496539075954,
+        770.2381584943589
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "100.2",
+          "name": "ERIM FM",
+          "pi": "K850",
+          "kw": 0.075,
           "pol": "v",
           "directional": false,
           "directionAngle": null,
