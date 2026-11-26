@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-26T03:03:12.339Z",
+    "exportedAt": "2026-11-26T03:09:19.469Z",
     "publishedBy": "MatdoYT"
   },
   "txList": [
@@ -2539,6 +2539,21 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 14,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "94.8",
+          "name": "ERIM FM",
+          "pi": "K850",
+          "kw": 0.354,
+          "pol": "v",
+          "directional": false,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "Marona",
+          "blobMode": "svg",
+          "blobShapeIndex": 33,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         },
