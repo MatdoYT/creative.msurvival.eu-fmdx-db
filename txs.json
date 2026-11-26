@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-26T22:46:39.909Z",
+    "exportedAt": "2026-11-26T23:31:41.481Z",
     "publishedBy": "MatdoYT"
   },
   "txList": [
@@ -4786,6 +4786,22 @@
           "freq": "87.5",
           "name": "Broadland Radio 1",
           "pi": "B101",
+          "kw": 100,
+          "pol": "h",
+          "directional": false,
+          "directionAngle": null,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        },
+        {
+          "freq": "88.0",
+          "name": "Broadland Radio 2",
+          "pi": "B102",
           "kw": 100,
           "pol": "h",
           "directional": false,
