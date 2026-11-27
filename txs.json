@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-11-26T23:31:41.481Z",
+    "exportedAt": "2026-11-27T02:38:38.087Z",
     "publishedBy": "MatdoYT"
   },
   "txList": [
@@ -4811,6 +4811,33 @@
           "outlet": "",
           "blobMode": "svg",
           "blobShapeIndex": 37,
+          "blobOffsetX": 0,
+          "blobOffsetY": 0
+        }
+      ]
+    },
+    {
+      "id": "tx_1795747052056",
+      "name": "Crossrivers BSRTC",
+      "latlng": [
+        -748.75,
+        893
+      ],
+      "point": null,
+      "stations": [
+        {
+          "freq": "91.7",
+          "name": "Broadland Radio 1",
+          "pi": "B101",
+          "kw": 1.256,
+          "pol": "h",
+          "directional": true,
+          "directionAngle": 80,
+          "country": "BLR",
+          "disabled": false,
+          "outlet": "",
+          "blobMode": "svg",
+          "blobShapeIndex": 25,
           "blobOffsetX": 0,
           "blobOffsetY": 0
         }
